@@ -3,7 +3,7 @@ A mod of the Watercolor theme by roberTO, which is in turn based on the Windows 
 
 Three variants: A version with rounded corners, one with a red close button, and one with a red close button that has been modified to work with buttons on the right side.
 
-Also included: namebar theme. Instructions: Copy .tar.gz file to ~/.namebar/themes/, select Watercolor in namebar properties, restart namebar (or killall gnome-panel)
+Also included: namebar theme. Instructions: Copy .tar.gz file to ~/.namebar/themes/, select Watercolor in namebar properties, restart namebar (or killall gnome-panel).
 
 # Screenshot
 ![](http://s7.postimg.org/hnvw6x1bv/156665_1.png)
